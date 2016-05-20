@@ -7,6 +7,8 @@ Categories:
 * V - Verb Choice
 * D - Drill
 * S - Stats
+* A - Account
+* C - Verb Charts
 
 
 User Stories:
@@ -45,6 +47,8 @@ User Stories:
 * D - User can select a time to drill for.  
 * D - When time for drill is up, user can no longer enter input and no more words are presented.
 
+* C - User can see entire conjugation for any one verb.
+
 
 ## Priority 4
 
@@ -57,7 +61,10 @@ User Stories:
 * V - User can select all verbs.
 * V - User can deselect all verbs.
 
-* D - User can drill indefinitely on the chosen language and verbs.  
+* D - User can drill indefinitely on the chosen language and verbs.
+
+* C - User can see a page with 3 regular verb conjugations in all tenses.
+* C - User can see a page with all irregular verbs for any particular tense.
 
     
 ## Priority 5
@@ -76,3 +83,4 @@ User Stories:
 
 * P - Culturally appropriate graphics / backgrounds are shown depending on language chosen.
 
+* A - User can have an account that saves history, statistics, and preferences
