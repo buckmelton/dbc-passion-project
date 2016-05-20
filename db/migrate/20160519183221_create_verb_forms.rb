@@ -9,7 +9,7 @@ class CreateVerbForms < ActiveRecord::Migration
   		t.string :mood
   		t.string :voice
   		t.string :non_finite_cat
-  		t.string :verb_form, null: false
+  		t.string :form, null: false
 
   		t.timestamps null: false
   	end
