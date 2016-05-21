@@ -65,3 +65,21 @@ code {
     margin-left: -1em;
     overflow: auto;
 }
+
+.site-header {
+  background-image: url("/images/word-cloud.png");
+}
+
+.konjugo-heading {
+    font-size: 48px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Serif;
+    color: green;
+}
+
+.konjugo-left {
+    background-color: #EEEEDD;
+}
+
+.konjugo-right {
+    background-color: #DDEEEE;
+}

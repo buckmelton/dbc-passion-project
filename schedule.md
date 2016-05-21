@@ -40,3 +40,11 @@ Thursday
 
 Friday
 
+12:30
+* Create divs
+* Put content in divs
+* Layout divs
+
+1:30
+*
+

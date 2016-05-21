@@ -1,0 +1,15 @@
+<div class="col-xs-5 konjugo-left">
+
+  <% @verb_forms.each do |verb_form| %>
+  <p><%= verb_form.language %>, <%= verb_form.lemma %>, <%= verb_form.tense %>, <%= verb_form.person %>, <%= verb_form.form %></p>
+  <% end %>
+
+</div>
+
+<div class="col-xs-7 konjugo-right">
+
+  <% @verb_forms.each do |verb_form| %>
+  <p><%= verb_form.language %>, <%= verb_form.lemma %>, <%= verb_form.tense %>, <%= verb_form.person %>, <%= verb_form.form %></p>
+  <% end %>
+
+</div>
